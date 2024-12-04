@@ -1,7 +1,7 @@
 criaCartao(
     'Diário de Bordo', 
     'Qual foi o destino?', 
-    'Informar o destino da viagem.', 
+    'Eu fiquei no Se liga por que fui preguiçoso.', 
 )
 
 criaCartao(
